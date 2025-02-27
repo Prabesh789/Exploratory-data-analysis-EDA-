@@ -25,7 +25,8 @@ files = [
     f"{project_name}/src/loaders/csv_loader.py",
     f"{project_name}/src/loaders/json_loader.py",
     f"{project_name}/src/loaders/sql_loader.py",
-     f"{project_name}/src/analysis_src/basic_data_inspection.py",
+    f"{project_name}/src/analysis_src/data_cleaning.py",
+    f"{project_name}/src/analysis_src/basic_data_inspection.py",
     f"{project_name}/src/analysis_src/missing_values_analysis.py",
     f"{project_name}/src/analysis_src/univariate_analysis.py",
     f"{project_name}/src/analysis_src/bivariate_analysis.py",
@@ -34,7 +35,8 @@ files = [
     f"{project_name}/tests/test_json_loader.py",
     f"{project_name}/tests/test_sql_loader.py",
     f"{project_name}/utils/preprocessing.py",
-    f"{project_name}/utils/logger.py"
+    f"{project_name}/utils/logger.py",
+    f"{project_name}/utils/config.py"
 ]
 
 # Create directories
