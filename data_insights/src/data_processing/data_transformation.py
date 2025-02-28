@@ -22,7 +22,10 @@ def transform_data(file_path):
 
     # Ensure "Value" column is handled correctly (convert to string before applying string functions)
     df_long["Value"] = df_long["Value"].astype(str).replace("..", pd.NA)
-    df_long["Value"] = df_long["Value"].str.replace(",", "", regex=True).astype("float")
+    df_long["Value"] = df_long["Value"].str.replace(",", "", regex=True)  # Remove commas
+
+    # Convert to numeric, ensuring errors do not cause crashes
+    df_long["Value"] = pd.to_numeric(df_long["Value"], errors="coerce")
 
     # Define "Region Type" (Country vs. Province/Territory)
     provinces = {
