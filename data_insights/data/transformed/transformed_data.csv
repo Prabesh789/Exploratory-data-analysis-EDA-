@@ -1,0 +1,931 @@
+Geography,Characteristics,Year,Value,Region Type
+Canada,Number of new cancer cases,1992,117970.0,Country
+Canada,Cancer incidence rate,1992,415.8,Country
+Canada (excluding Quebec),Number of new cancer cases,1992,86230.0,Other
+Canada (excluding Quebec),Cancer incidence rate,1992,405.6,Other
+Newfoundland and Labrador,Number of new cancer cases,1992,1705.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,1992,293.9,Province/Territory
+Prince Edward Island,Number of new cancer cases,1992,605.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,1992,462.4,Province/Territory
+Nova Scotia,Number of new cancer cases,1992,4110.0,Province/Territory
+Nova Scotia,Cancer incidence rate 10,1992,447.0,Province/Territory
+New Brunswick,Number of new cancer cases,1992,3170.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,1992,423.7,Province/Territory
+Quebec,Number of new cancer cases,1992,31745.0,Province/Territory
+Quebec,Cancer incidence rate 10,1992,446.5,Province/Territory
+Ontario,Number of new cancer cases,1992,42685.0,Province/Territory
+Ontario,Cancer incidence rate 10,1992,403.7,Province/Territory
+Manitoba,Number of new cancer cases,1992,5375.0,Province/Territory
+Manitoba,Cancer incidence rate 10,1992,483.1,Province/Territory
+Saskatchewan,Number of new cancer cases,1992,4360.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,1992,434.3,Province/Territory
+Alberta,Number of new cancer cases,1992,8700.0,Province/Territory
+Alberta,Cancer incidence rate 10,1992,330.5,Province/Territory
+British Columbia,Number of new cancer cases,1992,15360.0,Province/Territory
+British Columbia,Cancer incidence rate 10,1992,442.8,Province/Territory
+Yukon,Number of new cancer cases,1992,50.0,Province/Territory
+Yukon,Cancer incidence rate 10,1992,166.2,Province/Territory
+Northwest Territories,Number of new cancer cases,1992,60.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,1992,152.2,Province/Territory
+Nunavut,Number of new cancer cases,1992,40.0,Province/Territory
+Nunavut,Cancer incidence rate 10,1992,174.8,Province/Territory
+Canada,Number of new cancer cases,1993,121895.0,Country
+Canada,Cancer incidence rate,1993,424.9,Country
+Canada (excluding Quebec),Number of new cancer cases,1993,88945.0,Other
+Canada (excluding Quebec),Cancer incidence rate,1993,413.2,Other
+Newfoundland and Labrador,Number of new cancer cases,1993,1855.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,1993,319.8,Province/Territory
+Prince Edward Island,Number of new cancer cases,1993,595.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,1993,450.2,Province/Territory
+Nova Scotia,Number of new cancer cases,1993,4420.0,Province/Territory
+Nova Scotia,Cancer incidence rate 10,1993,478.4,Province/Territory
+New Brunswick,Number of new cancer cases,1993,3340.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,1993,446.0,Province/Territory
+Quebec,Number of new cancer cases,1993,32950.0,Province/Territory
+Quebec,Cancer incidence rate 10,1993,460.4,Province/Territory
+Ontario,Number of new cancer cases,1993,43415.0,Province/Territory
+Ontario,Cancer incidence rate 10,1993,406.1,Province/Territory
+Manitoba,Number of new cancer cases,1993,5450.0,Province/Territory
+Manitoba,Cancer incidence rate 10,1993,487.6,Province/Territory
+Saskatchewan,Number of new cancer cases,1993,4580.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,1993,454.9,Province/Territory
+Alberta,Number of new cancer cases,1993,8985.0,Province/Territory
+Alberta,Cancer incidence rate 10,1993,336.9,Province/Territory
+British Columbia,Number of new cancer cases,1993,16135.0,Province/Territory
+British Columbia,Cancer incidence rate 10,1993,452.2,Province/Territory
+Yukon,Number of new cancer cases,1993,60.0,Province/Territory
+Yukon,Cancer incidence rate 10,1993,197.8,Province/Territory
+Northwest Territories,Number of new cancer cases,1993,70.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,1993,175.8,Province/Territory
+Nunavut,Number of new cancer cases,1993,40.0,Province/Territory
+Nunavut,Cancer incidence rate 10,1993,169.8,Province/Territory
+Canada,Number of new cancer cases,1994,122595.0,Country
+Canada,Cancer incidence rate,1994,422.7,Country
+Canada (excluding Quebec),Number of new cancer cases,1994,89085.0,Other
+Canada (excluding Quebec),Cancer incidence rate,1994,408.5,Other
+Newfoundland and Labrador,Number of new cancer cases,1994,1770.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,1994,308.1,Province/Territory
+Prince Edward Island,Number of new cancer cases,1994,645.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,1994,483.4,Province/Territory
+Nova Scotia,Number of new cancer cases,1994,4365.0,Province/Territory
+Nova Scotia,Cancer incidence rate 10,1994,470.9,Province/Territory
+New Brunswick,Number of new cancer cases,1994,3425.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,1994,456.6,Province/Territory
+Quebec,Number of new cancer cases,1994,33505.0,Province/Territory
+Quebec,Cancer incidence rate 10,1994,465.8,Province/Territory
+Ontario,Number of new cancer cases,1994,44055.0,Province/Territory
+Ontario,Cancer incidence rate 10,1994,407.2,Province/Territory
+Manitoba,Number of new cancer cases,1994,5390.0,Province/Territory
+Manitoba,Cancer incidence rate 10,1994,479.9,Province/Territory
+Saskatchewan,Number of new cancer cases,1994,4430.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,1994,438.8,Province/Territory
+Alberta,Number of new cancer cases,1994,9245.0,Province/Territory
+Alberta,Cancer incidence rate 10,1994,342.3,Province/Territory
+British Columbia,Number of new cancer cases,1994,15590.0,Province/Territory
+British Columbia,Cancer incidence rate 10,1994,424.1,Province/Territory
+Yukon,Number of new cancer cases,1994,60.0,Province/Territory
+Yukon,Cancer incidence rate 10,1994,202.1,Province/Territory
+Northwest Territories,Number of new cancer cases,1994,75.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,1994,184.8,Province/Territory
+Nunavut,Number of new cancer cases,1994,30.0,Province/Territory
+Nunavut,Cancer incidence rate 10,1994,122.9,Province/Territory
+Canada,Number of new cancer cases,1995,122045.0,Country
+Canada,Cancer incidence rate,1995,416.5,Country
+Canada (excluding Quebec),Number of new cancer cases,1995,88760.0,Other
+Canada (excluding Quebec),Cancer incidence rate,1995,401.9,Other
+Newfoundland and Labrador,Number of new cancer cases,1995,1980.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,1995,349.0,Province/Territory
+Prince Edward Island,Number of new cancer cases,1995,610.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,1995,453.8,Province/Territory
+Nova Scotia,Number of new cancer cases,1995,4275.0,Province/Territory
+Nova Scotia,Cancer incidence rate 10,1995,460.6,Province/Territory
+New Brunswick,Number of new cancer cases,1995,3195.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,1995,425.5,Province/Territory
+Quebec,Number of new cancer cases,1995,33290.0,Province/Territory
+Quebec,Cancer incidence rate 10,1995,461.1,Province/Territory
+Ontario,Number of new cancer cases,1995,43845.0,Province/Territory
+Ontario,Cancer incidence rate 10,1995,400.4,Province/Territory
+Manitoba,Number of new cancer cases,1995,5305.0,Province/Territory
+Manitoba,Cancer incidence rate 10,1995,469.8,Province/Territory
+Saskatchewan,Number of new cancer cases,1995,4265.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,1995,420.5,Province/Territory
+Alberta,Number of new cancer cases,1995,9360.0,Province/Territory
+Alberta,Cancer incidence rate 10,1995,342.3,Province/Territory
+British Columbia,Number of new cancer cases,1995,15770.0,Province/Territory
+British Columbia,Cancer incidence rate 10,1995,417.5,Province/Territory
+Yukon,Number of new cancer cases,1995,60.0,Province/Territory
+Yukon,Cancer incidence rate 10,1995,197.1,Province/Territory
+Northwest Territories,Number of new cancer cases,1995,60.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,1995,144.8,Province/Territory
+Nunavut,Number of new cancer cases,1995,40.0,Province/Territory
+Nunavut,Cancer incidence rate 10,1995,160.1,Province/Territory
+Canada,Number of new cancer cases,1996,123145.0,Country
+Canada,Cancer incidence rate,1996,415.9,Country
+Canada (excluding Quebec),Number of new cancer cases,1996,90430.0,Other
+Canada (excluding Quebec),Cancer incidence rate,1996,404.4,Other
+Newfoundland and Labrador,Number of new cancer cases,1996,1940.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,1996,346.6,Province/Territory
+Prince Edward Island,Number of new cancer cases,1996,590.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,1996,434.7,Province/Territory
+Nova Scotia,Number of new cancer cases,1996,4255.0,Province/Territory
+Nova Scotia,Cancer incidence rate 10,1996,456.9,Province/Territory
+New Brunswick,Number of new cancer cases,1996,3295.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,1996,438.0,Province/Territory
+Quebec,Number of new cancer cases,1996,32715.0,Province/Territory
+Quebec,Cancer incidence rate 10,1996,451.4,Province/Territory
+Ontario,Number of new cancer cases,1996,44370.0,Province/Territory
+Ontario,Cancer incidence rate 10,1996,400.3,Province/Territory
+Manitoba,Number of new cancer cases,1996,5150.0,Province/Territory
+Manitoba,Cancer incidence rate 10,1996,454.1,Province/Territory
+Saskatchewan,Number of new cancer cases,1996,4340.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,1996,425.9,Province/Territory
+Alberta,Number of new cancer cases,1996,9885.0,Province/Territory
+Alberta,Cancer incidence rate 10,1996,356.2,Province/Territory
+British Columbia,Number of new cancer cases,1996,16400.0,Province/Territory
+British Columbia,Cancer incidence rate 10,1996,423.3,Province/Territory
+Yukon,Number of new cancer cases,1996,75.0,Province/Territory
+Yukon,Cancer incidence rate 10,1996,239.0,Province/Territory
+Northwest Territories,Number of new cancer cases,1996,85.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,1996,203.6,Province/Territory
+Nunavut,Number of new cancer cases,1996,40.0,Province/Territory
+Nunavut,Cancer incidence rate 10,1996,155.8,Province/Territory
+Canada,Number of new cancer cases,1997,126960.0,Country
+Canada,Cancer incidence rate,1997,424.5,Country
+Canada (excluding Quebec),Number of new cancer cases,1997,94130.0,Other
+Canada (excluding Quebec),Cancer incidence rate,1997,415.9,Other
+Newfoundland and Labrador,Number of new cancer cases,1997,1955.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,1997,354.9,Province/Territory
+Prince Edward Island,Number of new cancer cases,1997,635.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,1997,466.6,Province/Territory
+Nova Scotia,Number of new cancer cases,1997,4390.0,Province/Territory
+Nova Scotia,Cancer incidence rate 10,1997,470.8,Province/Territory
+New Brunswick,Number of new cancer cases,1997,3475.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,1997,461.8,Province/Territory
+Quebec,Number of new cancer cases,1997,32830.0,Province/Territory
+Quebec,Cancer incidence rate 10,1997,451.3,Province/Territory
+Ontario,Number of new cancer cases,1997,46740.0,Province/Territory
+Ontario,Cancer incidence rate 10,1997,416.3,Province/Territory
+Manitoba,Number of new cancer cases,1997,5295.0,Province/Territory
+Manitoba,Cancer incidence rate 10,1997,466.1,Province/Territory
+Saskatchewan,Number of new cancer cases,1997,4465.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,1997,438.6,Province/Territory
+Alberta,Number of new cancer cases,1997,10135.0,Province/Territory
+Alberta,Cancer incidence rate 10,1997,358.1,Province/Territory
+British Columbia,Number of new cancer cases,1997,16845.0,Province/Territory
+British Columbia,Cancer incidence rate 10,1997,426.6,Province/Territory
+Yukon,Number of new cancer cases,1997,65.0,Province/Territory
+Yukon,Cancer incidence rate 10,1997,204.4,Province/Territory
+Northwest Territories,Number of new cancer cases,1997,90.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,1997,216.2,Province/Territory
+Nunavut,Number of new cancer cases,1997,35.0,Province/Territory
+Nunavut,Cancer incidence rate 10,1997,135.2,Province/Territory
+Canada,Number of new cancer cases,1998,131060.0,Country
+Canada,Cancer incidence rate,1998,434.6,Country
+Canada (excluding Quebec),Number of new cancer cases,1998,96385.0,Other
+Canada (excluding Quebec),Cancer incidence rate,1998,421.6,Other
+Newfoundland and Labrador,Number of new cancer cases,1998,1965.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,1998,364.0,Province/Territory
+Prince Edward Island,Number of new cancer cases,1998,685.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,1998,504.4,Province/Territory
+Nova Scotia,Number of new cancer cases,1998,4825.0,Province/Territory
+Nova Scotia,Cancer incidence rate 10,1998,517.8,Province/Territory
+New Brunswick,Number of new cancer cases,1998,3600.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,1998,479.7,Province/Territory
+Quebec,Number of new cancer cases,1998,34675.0,Province/Territory
+Quebec,Cancer incidence rate 10,1998,475.3,Province/Territory
+Ontario,Number of new cancer cases,1998,47665.0,Province/Territory
+Ontario,Cancer incidence rate 10,1998,419.4,Province/Territory
+Manitoba,Number of new cancer cases,1998,5365.0,Province/Territory
+Manitoba,Cancer incidence rate 10,1998,471.7,Province/Territory
+Saskatchewan,Number of new cancer cases,1998,4605.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,1998,452.7,Province/Territory
+Alberta,Number of new cancer cases,1998,10480.0,Province/Territory
+Alberta,Cancer incidence rate 10,1998,361.5,Province/Territory
+British Columbia,Number of new cancer cases,1998,16990.0,Province/Territory
+British Columbia,Cancer incidence rate 10,1998,426.6,Province/Territory
+Yukon,Number of new cancer cases,1998,65.0,Province/Territory
+Yukon,Cancer incidence rate 10,1998,208.7,Province/Territory
+Northwest Territories,Number of new cancer cases,1998,90.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,1998,220.6,Province/Territory
+Nunavut,Number of new cancer cases,1998,50.0,Province/Territory
+Nunavut,Cancer incidence rate 10,1998,189.6,Province/Territory
+Canada,Number of new cancer cases,1999,135495.0,Country
+Canada,Cancer incidence rate,1999,445.7,Country
+Canada (excluding Quebec),Number of new cancer cases,1999,100200.0,Other
+Canada (excluding Quebec),Cancer incidence rate,1999,434.2,Other
+Newfoundland and Labrador,Number of new cancer cases,1999,1995.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,1999,374.1,Province/Territory
+Prince Edward Island,Number of new cancer cases,1999,660.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,1999,484.3,Province/Territory
+Nova Scotia,Number of new cancer cases,1999,4950.0,Province/Territory
+Nova Scotia,Cancer incidence rate 10,1999,530.1,Province/Territory
+New Brunswick,Number of new cancer cases,1999,3655.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,1999,486.9,Province/Territory
+Quebec,Number of new cancer cases,1999,35295.0,Province/Territory
+Quebec,Cancer incidence rate 10,1999,482.0,Province/Territory
+Ontario,Number of new cancer cases,1999,49180.0,Province/Territory
+Ontario,Cancer incidence rate 10,1999,427.5,Province/Territory
+Manitoba,Number of new cancer cases,1999,5455.0,Province/Territory
+Manitoba,Cancer incidence rate 10,1999,477.5,Province/Territory
+Saskatchewan,Number of new cancer cases,1999,4765.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,1999,469.7,Province/Territory
+Alberta,Number of new cancer cases,1999,11255.0,Province/Territory
+Alberta,Cancer incidence rate 10,1999,381.2,Province/Territory
+British Columbia,Number of new cancer cases,1999,18055.0,Province/Territory
+British Columbia,Cancer incidence rate 10,1999,450.1,Province/Territory
+Yukon,Number of new cancer cases,1999,95.0,Province/Territory
+Yukon,Cancer incidence rate 10,1999,308.6,Province/Territory
+Northwest Territories,Number of new cancer cases,1999,85.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,1999,209.2,Province/Territory
+Nunavut,Number of new cancer cases,1999,45.0,Province/Territory
+Nunavut,Cancer incidence rate 10,1999,167.8,Province/Territory
+Canada,Number of new cancer cases,2000,138925.0,Country
+Canada,Cancer incidence rate,2000,452.7,Country
+Canada (excluding Quebec),Number of new cancer cases,2000,102040.0,Other
+Canada (excluding Quebec),Cancer incidence rate,2000,437.4,Other
+Newfoundland and Labrador,Number of new cancer cases,2000,2065.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,2000,391.1,Province/Territory
+Prince Edward Island,Number of new cancer cases,2000,650.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,2000,476.3,Province/Territory
+Nova Scotia,Number of new cancer cases,2000,4940.0,Province/Territory
+Nova Scotia,Cancer incidence rate 10,2000,529.0,Province/Territory
+New Brunswick,Number of new cancer cases,2000,3505.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,2000,467.0,Province/Territory
+Quebec,Number of new cancer cases,2000,36885.0,Province/Territory
+Quebec,Cancer incidence rate 10,2000,501.4,Province/Territory
+Ontario,Number of new cancer cases,2000,50610.0,Province/Territory
+Ontario,Cancer incidence rate 10,2000,433.2,Province/Territory
+Manitoba,Number of new cancer cases,2000,5645.0,Province/Territory
+Manitoba,Cancer incidence rate 10,2000,492.0,Province/Territory
+Saskatchewan,Number of new cancer cases,2000,4750.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,2000,471.4,Province/Territory
+Alberta,Number of new cancer cases,2000,11625.0,Province/Territory
+Alberta,Cancer incidence rate 10,2000,387.0,Province/Territory
+British Columbia,Number of new cancer cases,2000,18020.0,Province/Territory
+British Columbia,Cancer incidence rate 10,2000,446.1,Province/Territory
+Yukon,Number of new cancer cases,2000,75.0,Province/Territory
+Yukon,Cancer incidence rate 10,2000,246.5,Province/Territory
+Northwest Territories,Number of new cancer cases,2000,90.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,2000,222.3,Province/Territory
+Nunavut,Number of new cancer cases,2000,55.0,Province/Territory
+Nunavut,Cancer incidence rate 10,2000,200.0,Province/Territory
+Canada,Number of new cancer cases,2001,142865.0,Country
+Canada,Cancer incidence rate,2001,460.5,Country
+Canada (excluding Quebec),Number of new cancer cases,2001,105180.0,Other
+Canada (excluding Quebec),Cancer incidence rate,2001,445.2,Other
+Newfoundland and Labrador,Number of new cancer cases,2001,2180.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,2001,417.6,Province/Territory
+Prince Edward Island,Number of new cancer cases,2001,705.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,2001,515.9,Province/Territory
+Nova Scotia,Number of new cancer cases,2001,5060.0,Province/Territory
+Nova Scotia,Cancer incidence rate 10,2001,542.6,Province/Territory
+New Brunswick,Number of new cancer cases,2001,3725.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,2001,496.8,Province/Territory
+Quebec,Number of new cancer cases,2001,37685.0,Province/Territory
+Quebec,Cancer incidence rate 10,2001,509.5,Province/Territory
+Ontario,Number of new cancer cases,2001,51995.0,Province/Territory
+Ontario,Cancer incidence rate 10,2001,437.0,Province/Territory
+Manitoba,Number of new cancer cases,2001,5600.0,Province/Territory
+Manitoba,Cancer incidence rate 10,2001,486.3,Province/Territory
+Saskatchewan,Number of new cancer cases,2001,4925.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,2001,492.3,Province/Territory
+Alberta,Number of new cancer cases,2001,12225.0,Province/Territory
+Alberta,Cancer incidence rate 10,2001,399.7,Province/Territory
+British Columbia,Number of new cancer cases,2001,18535.0,Province/Territory
+British Columbia,Cancer incidence rate 10,2001,454.6,Province/Territory
+Yukon,Number of new cancer cases,2001,85.0,Province/Territory
+Yukon,Cancer incidence rate 10,2001,281.8,Province/Territory
+Northwest Territories,Number of new cancer cases,2001,95.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,2001,232.6,Province/Territory
+Nunavut,Number of new cancer cases,2001,55.0,Province/Territory
+Nunavut,Cancer incidence rate 10,2001,195.5,Province/Territory
+Canada,Number of new cancer cases,2002,145135.0,Country
+Canada,Cancer incidence rate,2002,462.8,Country
+Canada (excluding Quebec),Number of new cancer cases,2002,106960.0,Other
+Canada (excluding Quebec),Cancer incidence rate,2002,447.2,Other
+Newfoundland and Labrador,Number of new cancer cases,2002,2135.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,2002,411.0,Province/Territory
+Prince Edward Island,Number of new cancer cases,2002,715.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,2002,522.3,Province/Territory
+Nova Scotia,Number of new cancer cases,2002,5055.0,Province/Territory
+Nova Scotia,Cancer incidence rate 10,2002,540.5,Province/Territory
+New Brunswick,Number of new cancer cases,2002,3690.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,2002,492.4,Province/Territory
+Quebec,Number of new cancer cases,2002,38170.0,Province/Territory
+Quebec,Cancer incidence rate 10,2002,512.9,Province/Territory
+Ontario,Number of new cancer cases,2002,53135.0,Province/Territory
+Ontario,Cancer incidence rate 10,2002,439.4,Province/Territory
+Manitoba,Number of new cancer cases,2002,5675.0,Province/Territory
+Manitoba,Cancer incidence rate 10,2002,490.6,Province/Territory
+Saskatchewan,Number of new cancer cases,2002,4885.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,2002,490.0,Province/Territory
+Alberta,Number of new cancer cases,2002,12705.0,Province/Territory
+Alberta,Cancer incidence rate 10,2002,406.1,Province/Territory
+British Columbia,Number of new cancer cases,2002,18675.0,Province/Territory
+British Columbia,Cancer incidence rate 10,2002,455.4,Province/Territory
+Yukon,Number of new cancer cases,2002,115.0,Province/Territory
+Yukon,Cancer incidence rate 10,2002,379.1,Province/Territory
+Northwest Territories,Number of new cancer cases,2002,110.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,2002,263.8,Province/Territory
+Nunavut,Number of new cancer cases,2002,55.0,Province/Territory
+Nunavut,Cancer incidence rate 10,2002,190.9,Province/Territory
+Canada,Number of new cancer cases,2003,147285.0,Country
+Canada,Cancer incidence rate,2003,465.5,Country
+Canada (excluding Quebec),Number of new cancer cases,2003,107660.0,Other
+Canada (excluding Quebec),Cancer incidence rate,2003,445.7,Other
+Newfoundland and Labrador,Number of new cancer cases,2003,2140.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,2003,412.8,Province/Territory
+Prince Edward Island,Number of new cancer cases,2003,790.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,2003,575.7,Province/Territory
+Nova Scotia,Number of new cancer cases,2003,5030.0,Province/Territory
+Nova Scotia,Cancer incidence rate 10,2003,536.4,Province/Territory
+New Brunswick,Number of new cancer cases,2003,3785.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,2003,505.0,Province/Territory
+Quebec,Number of new cancer cases,2003,39625.0,Province/Territory
+Quebec,Cancer incidence rate 10,2003,529.4,Province/Territory
+Ontario,Number of new cancer cases,2003,53655.0,Province/Territory
+Ontario,Cancer incidence rate 10,2003,438.2,Province/Territory
+Manitoba,Number of new cancer cases,2003,5485.0,Province/Territory
+Manitoba,Cancer incidence rate 10,2003,471.4,Province/Territory
+Saskatchewan,Number of new cancer cases,2003,4910.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,2003,492.8,Province/Territory
+Alberta,Number of new cancer cases,2003,13015.0,Province/Territory
+Alberta,Cancer incidence rate 10,2003,408.9,Province/Territory
+British Columbia,Number of new cancer cases,2003,18585.0,Province/Territory
+British Columbia,Cancer incidence rate 10,2003,450.6,Province/Territory
+Yukon,Number of new cancer cases,2003,85.0,Province/Territory
+Yukon,Cancer incidence rate 10,2003,274.7,Province/Territory
+Northwest Territories,Number of new cancer cases,2003,125.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,2003,293.4,Province/Territory
+Nunavut,Number of new cancer cases,2003,60.0,Province/Territory
+Nunavut,Cancer incidence rate 10,2003,204.8,Province/Territory
+Canada,Number of new cancer cases,2004,152400.0,Country
+Canada,Cancer incidence rate,2004,477.2,Country
+Canada (excluding Quebec),Number of new cancer cases,2004,111715.0,Other
+Canada (excluding Quebec),Cancer incidence rate,2004,457.8,Other
+Newfoundland and Labrador,Number of new cancer cases,2004,2210.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,2004,427.2,Province/Territory
+Prince Edward Island,Number of new cancer cases,2004,760.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,2004,552.0,Province/Territory
+Nova Scotia,Number of new cancer cases,2004,5280.0,Province/Territory
+Nova Scotia,Cancer incidence rate 10,2004,561.9,Province/Territory
+New Brunswick,Number of new cancer cases,2004,3870.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,2004,516.4,Province/Territory
+Quebec,Number of new cancer cases,2004,40685.0,Province/Territory
+Quebec,Cancer incidence rate 10,2004,539.9,Province/Territory
+Ontario,Number of new cancer cases,2004,56435.0,Province/Territory
+Ontario,Cancer incidence rate 10,2004,455.5,Province/Territory
+Manitoba,Number of new cancer cases,2004,5810.0,Province/Territory
+Manitoba,Cancer incidence rate 10,2004,495.2,Province/Territory
+Saskatchewan,Number of new cancer cases,2004,5075.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,2004,508.9,Province/Territory
+Alberta,Number of new cancer cases,2004,13190.0,Province/Territory
+Alberta,Cancer incidence rate 10,2004,407.2,Province/Territory
+British Columbia,Number of new cancer cases,2004,18820.0,Province/Territory
+British Columbia,Cancer incidence rate 10,2004,452.9,Province/Territory
+Yukon,Number of new cancer cases,2004,110.0,Province/Territory
+Yukon,Cancer incidence rate 10,2004,349.7,Province/Territory
+Northwest Territories,Number of new cancer cases,2004,110.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,2004,254.0,Province/Territory
+Nunavut,Number of new cancer cases,2004,50.0,Province/Territory
+Nunavut,Cancer incidence rate 10,2004,167.6,Province/Territory
+Canada,Number of new cancer cases,2005,156650.0,Country
+Canada,Cancer incidence rate,2005,485.8,Country
+Canada (excluding Quebec),Number of new cancer cases,2005,115220.0,Other
+Canada (excluding Quebec),Cancer incidence rate,2005,467.2,Other
+Newfoundland and Labrador,Number of new cancer cases,2005,2340.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,2005,455.0,Province/Territory
+Prince Edward Island,Number of new cancer cases,2005,760.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,2005,550.5,Province/Territory
+Nova Scotia,Number of new cancer cases,2005,5410.0,Province/Territory
+Nova Scotia,Cancer incidence rate 10,2005,576.8,Province/Territory
+New Brunswick,Number of new cancer cases,2005,4205.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,2005,562.1,Province/Territory
+Quebec,Number of new cancer cases,2005,41430.0,Province/Territory
+Quebec,Cancer incidence rate 10,2005,546.5,Province/Territory
+Ontario,Number of new cancer cases,2005,58770.0,Province/Territory
+Ontario,Cancer incidence rate 10,2005,469.1,Province/Territory
+Manitoba,Number of new cancer cases,2005,5680.0,Province/Territory
+Manitoba,Cancer incidence rate 10,2005,482.1,Province/Territory
+Saskatchewan,Number of new cancer cases,2005,5005.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,2005,503.8,Province/Territory
+Alberta,Number of new cancer cases,2005,13230.0,Province/Territory
+Alberta,Cancer incidence rate 10,2005,398.3,Province/Territory
+British Columbia,Number of new cancer cases,2005,19515.0,Province/Territory
+British Columbia,Cancer incidence rate 10,2005,465.1,Province/Territory
+Yukon,Number of new cancer cases,2005,110.0,Province/Territory
+Yukon,Cancer incidence rate 10,2005,344.8,Province/Territory
+Northwest Territories,Number of new cancer cases,2005,120.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,2005,276.5,Province/Territory
+Nunavut,Number of new cancer cases,2005,70.0,Province/Territory
+Nunavut,Cancer incidence rate 10,2005,230.8,Province/Territory
+Canada,Number of new cancer cases,2006,161465.0,Country
+Canada,Cancer incidence rate,2006,495.7,Country
+Canada (excluding Quebec),Number of new cancer cases,2006,118910.0,Other
+Canada (excluding Quebec),Cancer incidence rate,2006,476.8,Other
+Newfoundland and Labrador,Number of new cancer cases,2006,2815.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,2006,551.3,Province/Territory
+Prince Edward Island,Number of new cancer cases,2006,775.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,2006,562.1,Province/Territory
+Nova Scotia,Number of new cancer cases,2006,5835.0,Province/Territory
+Nova Scotia,Cancer incidence rate 10,2006,622.1,Province/Territory
+New Brunswick,Number of new cancer cases,2006,4355.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,2006,584.1,Province/Territory
+Quebec,Number of new cancer cases,2006,42555.0,Province/Territory
+Quebec,Cancer incidence rate 10,2006,557.6,Province/Territory
+Ontario,Number of new cancer cases,2006,60265.0,Province/Territory
+Ontario,Cancer incidence rate 10,2006,476.0,Province/Territory
+Manitoba,Number of new cancer cases,2006,5735.0,Province/Territory
+Manitoba,Cancer incidence rate 10,2006,484.6,Province/Territory
+Saskatchewan,Number of new cancer cases,2006,4895.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,2006,493.3,Province/Territory
+Alberta,Number of new cancer cases,2006,13880.0,Province/Territory
+Alberta,Cancer incidence rate 10,2006,405.7,Province/Territory
+British Columbia,Number of new cancer cases,2006,20095.0,Province/Territory
+British Columbia,Cancer incidence rate 10,2006,473.7,Province/Territory
+Yukon,Number of new cancer cases,2006,95.0,Province/Territory
+Yukon,Cancer incidence rate 10,2006,294.4,Province/Territory
+Northwest Territories,Number of new cancer cases,2006,105.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,2006,243.1,Province/Territory
+Nunavut,Number of new cancer cases,2006,65.0,Province/Territory
+Nunavut,Cancer incidence rate 10,2006,210.9,Province/Territory
+Canada,Number of new cancer cases,2007,167165.0,Country
+Canada,Cancer incidence rate,2007,508.3,Country
+Canada (excluding Quebec),Number of new cancer cases,2007,123630.0,Other
+Canada (excluding Quebec),Cancer incidence rate,2007,490.7,Other
+Newfoundland and Labrador,Number of new cancer cases,2007,2935.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,2007,576.6,Province/Territory
+Prince Edward Island,Number of new cancer cases,2007,855.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,2007,620.9,Province/Territory
+Nova Scotia,Number of new cancer cases,2007,5775.0,Province/Territory
+Nova Scotia,Cancer incidence rate 10,2007,617.5,Province/Territory
+New Brunswick,Number of new cancer cases,2007,4460.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,2007,598.3,Province/Territory
+Quebec,Number of new cancer cases,2007,43530.0,Province/Territory
+Quebec,Cancer incidence rate 10,2007,565.9,Province/Territory
+Ontario,Number of new cancer cases,2007,62520.0,Province/Territory
+Ontario,Cancer incidence rate 10,2007,489.8,Province/Territory
+Manitoba,Number of new cancer cases,2007,5965.0,Province/Territory
+Manitoba,Cancer incidence rate 10,2007,501.5,Province/Territory
+Saskatchewan,Number of new cancer cases,2007,5195.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,2007,518.4,Province/Territory
+Alberta,Number of new cancer cases,2007,14255.0,Province/Territory
+Alberta,Cancer incidence rate 10,2007,405.6,Province/Territory
+British Columbia,Number of new cancer cases,2007,21385.0,Province/Territory
+British Columbia,Cancer incidence rate 10,2007,498.4,Province/Territory
+Yukon,Number of new cancer cases,2007,110.0,Province/Territory
+Yukon,Cancer incidence rate 10,2007,337.9,Province/Territory
+Northwest Territories,Number of new cancer cases,2007,135.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,2007,311.1,Province/Territory
+Nunavut,Number of new cancer cases,2007,55.0,Province/Territory
+Nunavut,Cancer incidence rate 10,2007,175.2,Province/Territory
+Canada,Number of new cancer cases,2008,168465.0,Country
+Canada,Cancer incidence rate,2008,506.7,Country
+Canada (excluding Quebec),Number of new cancer cases,2008,123935.0,Other
+Canada (excluding Quebec),Cancer incidence rate,2008,486.3,Other
+Newfoundland and Labrador,Number of new cancer cases,2008,3055.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,2008,597.2,Province/Territory
+Prince Edward Island,Number of new cancer cases,2008,825.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,2008,594.7,Province/Territory
+Nova Scotia,Number of new cancer cases,2008,5580.0,Province/Territory
+Nova Scotia,Cancer incidence rate 10,2008,596.2,Province/Territory
+New Brunswick,Number of new cancer cases,2008,4540.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,2008,607.9,Province/Territory
+Quebec,Number of new cancer cases,2008,44530.0,Province/Territory
+Quebec,Cancer incidence rate 10,2008,573.7,Province/Territory
+Ontario,Number of new cancer cases,2008,62195.0,Province/Territory
+Ontario,Cancer incidence rate 10,2008,482.7,Province/Territory
+Manitoba,Number of new cancer cases,2008,6055.0,Province/Territory
+Manitoba,Cancer incidence rate 10,2008,505.5,Province/Territory
+Saskatchewan,Number of new cancer cases,2008,5300.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,2008,521.0,Province/Territory
+Alberta,Number of new cancer cases,2008,14660.0,Province/Territory
+Alberta,Cancer incidence rate 10,2008,407.7,Province/Territory
+British Columbia,Number of new cancer cases,2008,21470.0,Province/Territory
+British Columbia,Cancer incidence rate 10,2008,493.6,Province/Territory
+Yukon,Number of new cancer cases,2008,95.0,Province/Territory
+Yukon,Cancer incidence rate 10,2008,287.1,Province/Territory
+Northwest Territories,Number of new cancer cases,2008,105.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,2008,242.0,Province/Territory
+Nunavut,Number of new cancer cases,2008,55.0,Province/Territory
+Nunavut,Cancer incidence rate 10,2008,172.4,Province/Territory
+Canada,Number of new cancer cases,2009,173305.0,Country
+Canada,Cancer incidence rate,2009,515.3,Country
+Canada (excluding Quebec),Number of new cancer cases,2009,127350.0,Other
+Canada (excluding Quebec),Cancer incidence rate,2009,493.9,Other
+Newfoundland and Labrador,Number of new cancer cases,2009,3125.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,2009,604.8,Province/Territory
+Prince Edward Island,Number of new cancer cases,2009,840.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,2009,600.5,Province/Territory
+Nova Scotia,Number of new cancer cases,2009,5560.0,Province/Territory
+Nova Scotia,Cancer incidence rate 10,2009,592.6,Province/Territory
+New Brunswick,Number of new cancer cases,2009,4540.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,2009,605.4,Province/Territory
+Quebec,Number of new cancer cases,2009,45955.0,Province/Territory
+Quebec,Cancer incidence rate 10,2009,585.9,Province/Territory
+Ontario,Number of new cancer cases,2009,64075.0,Province/Territory
+Ontario,Cancer incidence rate 10,2009,492.9,Province/Territory
+Manitoba,Number of new cancer cases,2009,6240.0,Province/Territory
+Manitoba,Cancer incidence rate 10,2009,516.3,Province/Territory
+Saskatchewan,Number of new cancer cases,2009,5275.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,2009,509.8,Province/Territory
+Alberta,Number of new cancer cases,2009,15075.0,Province/Territory
+Alberta,Cancer incidence rate 10,2009,409.8,Province/Territory
+British Columbia,Number of new cancer cases,2009,22295.0,Province/Territory
+British Columbia,Cancer incidence rate 10,2009,505.5,Province/Territory
+Yukon,Number of new cancer cases,2009,145.0,Province/Territory
+Yukon,Cancer incidence rate 10,2009,429.8,Province/Territory
+Northwest Territories,Number of new cancer cases,2009,130.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,2009,301.1,Province/Territory
+Nunavut,Number of new cancer cases,2009,55.0,Province/Territory
+Nunavut,Cancer incidence rate 10,2009,168.7,Province/Territory
+Canada,Number of new cancer cases,2010,187710.0,Country
+Canada,Cancer incidence rate,2010,552.0,Country
+Canada (excluding Quebec),Number of new cancer cases,2010,136890.0,Other
+Canada (excluding Quebec),Cancer incidence rate,2010,525.0,Other
+Newfoundland and Labrador,Number of new cancer cases,2010,3170.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,2010,607.3,Province/Territory
+Prince Edward Island,Number of new cancer cases,2010,815.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,2010,575.4,Province/Territory
+Nova Scotia,Number of new cancer cases,2010,5890.0,Province/Territory
+Nova Scotia,Cancer incidence rate 10,2010,625.2,Province/Territory
+New Brunswick,Number of new cancer cases,2010,4510.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,2010,598.9,Province/Territory
+Quebec,Number of new cancer cases,2010,50815.0,Province/Territory
+Quebec,Cancer incidence rate 10,2010,640.8,Province/Territory
+Ontario,Number of new cancer cases,2010,73005.0,Province/Territory
+Ontario,Cancer incidence rate 10,2010,555.7,Province/Territory
+Manitoba,Number of new cancer cases,2010,6210.0,Province/Territory
+Manitoba,Cancer incidence rate 10,2010,508.7,Province/Territory
+Saskatchewan,Number of new cancer cases,2010,5205.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,2010,495.0,Province/Territory
+Alberta,Number of new cancer cases,2010,15275.0,Province/Territory
+Alberta,Cancer incidence rate 10,2010,409.3,Province/Territory
+British Columbia,Number of new cancer cases,2010,22475.0,Province/Territory
+British Columbia,Cancer incidence rate 10,2010,503.3,Province/Territory
+Yukon,Number of new cancer cases,2010,145.0,Province/Territory
+Yukon,Cancer incidence rate 10,2010,419.1,Province/Territory
+Northwest Territories,Number of new cancer cases,2010,130.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,2010,300.3,Province/Territory
+Nunavut,Number of new cancer cases,2010,65.0,Province/Territory
+Nunavut,Cancer incidence rate 10,2010,194.8,Province/Territory
+Canada,Number of new cancer cases,2011,195625.0,Country
+Canada,Cancer incidence rate,2011,569.7,Country
+Canada (excluding Quebec),Number of new cancer cases,2011,140730.0,Other
+Canada (excluding Quebec),Cancer incidence rate,2011,534.4,Other
+Newfoundland and Labrador,Number of new cancer cases,2011,3315.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,2011,631.5,Province/Territory
+Prince Edward Island,Number of new cancer cases,2011,880.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,2011,611.5,Province/Territory
+Nova Scotia,Number of new cancer cases,2011,5785.0,Province/Territory
+Nova Scotia,Cancer incidence rate 10,2011,612.8,Province/Territory
+New Brunswick,Number of new cancer cases,2011,4575.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,2011,605.5,Province/Territory
+Quebec,Number of new cancer cases,2011,54895.0,Province/Territory
+Quebec,Cancer incidence rate 10,2011,685.8,Province/Territory
+Ontario,Number of new cancer cases,2011,74645.0,Province/Territory
+Ontario,Cancer incidence rate 10,2011,562.8,Province/Territory
+Manitoba,Number of new cancer cases,2011,6360.0,Province/Territory
+Manitoba,Cancer incidence rate 10,2011,515.7,Province/Territory
+Saskatchewan,Number of new cancer cases,2011,5400.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,2011,506.7,Province/Territory
+Alberta,Number of new cancer cases,2011,16180.0,Province/Territory
+Alberta,Cancer incidence rate 10,2011,427.2,Province/Territory
+British Columbia,Number of new cancer cases,2011,23245.0,Province/Territory
+British Columbia,Cancer incidence rate 10,2011,516.1,Province/Territory
+Yukon,Number of new cancer cases,2011,150.0,Province/Territory
+Yukon,Cancer incidence rate 10,2011,424.1,Province/Territory
+Northwest Territories,Number of new cancer cases,2011,135.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,2011,310.4,Province/Territory
+Nunavut,Number of new cancer cases,2011,60.0,Province/Territory
+Nunavut,Cancer incidence rate 10,2011,175.5,Province/Territory
+Canada,Number of new cancer cases,2012,197615.0,Country
+Canada,Cancer incidence rate,2012,569.3,Country
+Canada (excluding Quebec),Number of new cancer cases,2012,141085.0,Other
+Canada (excluding Quebec),Cancer incidence rate,2012,529.3,Other
+Newfoundland and Labrador,Number of new cancer cases,2012,3260.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,2012,619.5,Province/Territory
+Prince Edward Island,Number of new cancer cases,2012,900.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,2012,623.2,Province/Territory
+Nova Scotia,Number of new cancer cases,2012,6095.0,Province/Territory
+Nova Scotia,Cancer incidence rate 10,2012,646.2,Province/Territory
+New Brunswick,Number of new cancer cases,2012,4575.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,2012,603.5,Province/Territory
+Quebec,Number of new cancer cases,2012,56530.0,Province/Territory
+Quebec,Cancer incidence rate 10,2012,701.4,Province/Territory
+Ontario,Number of new cancer cases,2012,74080.0,Province/Territory
+Ontario,Cancer incidence rate 10,2012,553.2,Province/Territory
+Manitoba,Number of new cancer cases,2012,6225.0,Province/Territory
+Manitoba,Cancer incidence rate 10,2012,498.4,Province/Territory
+Saskatchewan,Number of new cancer cases,2012,5430.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,2012,501.4,Province/Territory
+Alberta,Number of new cancer cases,2012,16295.0,Province/Territory
+Alberta,Cancer incidence rate 10,2012,420.8,Province/Territory
+British Columbia,Number of new cancer cases,2012,23885.0,Province/Territory
+British Columbia,Cancer incidence rate 10,2012,522.5,Province/Territory
+Yukon,Number of new cancer cases,2012,140.0,Province/Territory
+Yukon,Cancer incidence rate 10,2012,387.3,Province/Territory
+Northwest Territories,Number of new cancer cases,2012,145.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,2012,332.4,Province/Territory
+Nunavut,Number of new cancer cases,2012,55.0,Province/Territory
+Nunavut,Cancer incidence rate 10,2012,158.7,Province/Territory
+Canada,Number of new cancer cases,2013,193510.0,Country
+Canada,Cancer incidence rate,2013,551.6,Country
+Canada (excluding Quebec),Number of new cancer cases,2013,143115.0,Other
+Canada (excluding Quebec),Cancer incidence rate,2013,530.6,Other
+Newfoundland and Labrador,Number of new cancer cases,2013,3415.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,2013,648.1,Province/Territory
+Prince Edward Island,Number of new cancer cases,2013,890.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,2013,618.3,Province/Territory
+Nova Scotia,Number of new cancer cases,2013,6150.0,Province/Territory
+Nova Scotia,Cancer incidence rate 10,2013,654.4,Province/Territory
+New Brunswick,Number of new cancer cases,2013,4790.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,2013,631.7,Province/Territory
+Quebec,Number of new cancer cases,2013,50395.0,Province/Territory
+Quebec,Cancer incidence rate 10,2013,621.5,Province/Territory
+Ontario,Number of new cancer cases,2013,74655.0,Province/Territory
+Ontario,Cancer incidence rate 10,2013,552.5,Province/Territory
+Manitoba,Number of new cancer cases,2013,6340.0,Province/Territory
+Manitoba,Cancer incidence rate 10,2013,501.8,Province/Territory
+Saskatchewan,Number of new cancer cases,2013,5590.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,2013,508.7,Province/Territory
+Alberta,Number of new cancer cases,2013,16620.0,Province/Territory
+Alberta,Cancer incidence rate 10,2013,417.7,Province/Territory
+British Columbia,Number of new cancer cases,2013,24320.0,Province/Territory
+British Columbia,Cancer incidence rate 10,2013,524.7,Province/Territory
+Yukon,Number of new cancer cases,2013,145.0,Province/Territory
+Yukon,Cancer incidence rate 10,2013,397.8,Province/Territory
+Northwest Territories,Number of new cancer cases,2013,130.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,2013,297.0,Province/Territory
+Nunavut,Number of new cancer cases,2013,60.0,Province/Territory
+Nunavut,Cancer incidence rate 10,2013,169.8,Province/Territory
+Canada,Number of new cancer cases,2014,198250.0,Country
+Canada,Cancer incidence rate,2014,559.5,Country
+Canada (excluding Quebec),Number of new cancer cases,2014,145370.0,Other
+Canada (excluding Quebec),Cancer incidence rate,2014,532.8,Other
+Newfoundland and Labrador,Number of new cancer cases,2014,3565.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,2014,675.2,Province/Territory
+Prince Edward Island,Number of new cancer cases,2014,900.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,2014,624.6,Province/Territory
+Nova Scotia,Number of new cancer cases,2014,6110.0,Province/Territory
+Nova Scotia,Cancer incidence rate 10,2014,651.5,Province/Territory
+New Brunswick,Number of new cancer cases,2014,4705.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,2014,620.2,Province/Territory
+Quebec,Number of new cancer cases,2014,52880.0,Province/Territory
+Quebec,Cancer incidence rate 10,2014,649.0,Province/Territory
+Ontario,Number of new cancer cases,2014,75460.0,Province/Territory
+Ontario,Cancer incidence rate 10,2014,554.1,Province/Territory
+Manitoba,Number of new cancer cases,2014,6440.0,Province/Territory
+Manitoba,Cancer incidence rate 10,2014,504.1,Province/Territory
+Saskatchewan,Number of new cancer cases,2014,5490.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,2014,493.7,Province/Territory
+Alberta,Number of new cancer cases,2014,17910.0,Province/Territory
+Alberta,Cancer incidence rate 10,2014,438.8,Province/Territory
+British Columbia,Number of new cancer cases,2014,24435.0,Province/Territory
+British Columbia,Cancer incidence rate 10,2014,518.5,Province/Territory
+Yukon,Number of new cancer cases,2014,130.0,Province/Territory
+Yukon,Cancer incidence rate 10,2014,350.5,Province/Territory
+Northwest Territories,Number of new cancer cases,2014,160.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,2014,364.9,Province/Territory
+Nunavut,Number of new cancer cases,2014,65.0,Province/Territory
+Nunavut,Cancer incidence rate 10,2014,180.7,Province/Territory
+Canada,Number of new cancer cases,2015,201990.0,Country
+Canada,Cancer incidence rate,2015,565.7,Country
+Canada (excluding Quebec),Number of new cancer cases,2015,148290.0,Other
+Canada (excluding Quebec),Cancer incidence rate,2015,538.7,Other
+Newfoundland and Labrador,Number of new cancer cases,2015,3505.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,2015,663.4,Province/Territory
+Prince Edward Island,Number of new cancer cases,2015,920.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,2015,636.1,Province/Territory
+Nova Scotia,Number of new cancer cases,2015,6320.0,Province/Territory
+Nova Scotia,Cancer incidence rate 10,2015,674.2,Province/Territory
+New Brunswick,Number of new cancer cases,2015,4810.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,2015,633.5,Province/Territory
+Quebec,Number of new cancer cases,2015,53700.0,Province/Territory
+Quebec,Cancer incidence rate 10,2015,656.8,Province/Territory
+Ontario,Number of new cancer cases,2015,76960.0,Province/Territory
+Ontario,Cancer incidence rate 10,2015,561.4,Province/Territory
+Manitoba,Number of new cancer cases,2015,6465.0,Province/Territory
+Manitoba,Cancer incidence rate 10,2015,499.8,Province/Territory
+Saskatchewan,Number of new cancer cases,2015,5500.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,2015,490.1,Province/Territory
+Alberta,Number of new cancer cases,2015,18255.0,Province/Territory
+Alberta,Cancer incidence rate 10,2015,439.9,Province/Territory
+British Columbia,Number of new cancer cases,2015,25170.0,Province/Territory
+British Columbia,Cancer incidence rate 10,2015,528.2,Province/Territory
+Yukon,Number of new cancer cases,2015,170.0,Province/Territory
+Yukon,Cancer incidence rate 10,2015,451.3,Province/Territory
+Northwest Territories,Number of new cancer cases,2015,145.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,2015,327.7,Province/Territory
+Nunavut,Number of new cancer cases,2015,70.0,Province/Territory
+Nunavut,Cancer incidence rate 10,2015,191.8,Province/Territory
+Canada,Number of new cancer cases,2016,207305.0,Country
+Canada,Cancer incidence rate,2016,574.1,Country
+Canada (excluding Quebec),Number of new cancer cases,2016,151915.0,Other
+Canada (excluding Quebec),Cancer incidence rate,2016,544.8,Other
+Newfoundland and Labrador,Number of new cancer cases,2016,3670.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,2016,693.0,Province/Territory
+Prince Edward Island,Number of new cancer cases,2016,900.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,2016,612.7,Province/Territory
+Nova Scotia,Number of new cancer cases,2016,6420.0,Province/Territory
+Nova Scotia,Cancer incidence rate 10,2016,680.8,Province/Territory
+New Brunswick,Number of new cancer cases,2016,4915.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,2016,643.9,Province/Territory
+Quebec,Number of new cancer cases,2016,55385.0,Province/Territory
+Quebec,Cancer incidence rate 10,2016,673.4,Province/Territory
+Ontario,Number of new cancer cases,2016,79125.0,Province/Territory
+Ontario,Cancer incidence rate 10,2016,570.2,Province/Territory
+Manitoba,Number of new cancer cases,2016,6540.0,Province/Territory
+Manitoba,Cancer incidence rate 10,2016,497.7,Province/Territory
+Saskatchewan,Number of new cancer cases,2016,5645.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,2016,497.1,Province/Territory
+Alberta,Number of new cancer cases,2016,18660.0,Province/Territory
+Alberta,Cancer incidence rate 10,2016,444.8,Province/Territory
+British Columbia,Number of new cancer cases,2016,25635.0,Province/Territory
+British Columbia,Cancer incidence rate 10,2016,527.3,Province/Territory
+Yukon,Number of new cancer cases,2016,170.0,Province/Territory
+Yukon,Cancer incidence rate 10,2016,441.0,Province/Territory
+Northwest Territories,Number of new cancer cases,2016,175.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,2016,392.2,Province/Territory
+Nunavut,Number of new cancer cases,2016,70.0,Province/Territory
+Nunavut,Cancer incidence rate 10,2016,189.3,Province/Territory
+Canada,Number of new cancer cases,2017,211510.0,Country
+Canada,Cancer incidence rate,2017,578.8,Country
+Canada (excluding Quebec),Number of new cancer cases,2017,155710.0,Other
+Canada (excluding Quebec),Cancer incidence rate,2017,551.1,Other
+Newfoundland and Labrador,Number of new cancer cases,2017,3595.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,2017,678.6,Province/Territory
+Prince Edward Island,Number of new cancer cases,2017,955.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,2017,637.8,Province/Territory
+Nova Scotia,Number of new cancer cases,2017,6615.0,Province/Territory
+Nova Scotia,Cancer incidence rate 10,2017,694.7,Province/Territory
+New Brunswick,Number of new cancer cases,2017,5045.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,2017,658.0,Province/Territory
+Quebec,Number of new cancer cases,2017,55800.0,Province/Territory
+Quebec,Cancer incidence rate 10,2017,672.9,Province/Territory
+Ontario,Number of new cancer cases,2017,82080.0,Province/Territory
+Ontario,Cancer incidence rate 10,2017,583.0,Province/Territory
+Manitoba,Number of new cancer cases,2017,6750.0,Province/Territory
+Manitoba,Cancer incidence rate 10,2017,505.7,Province/Territory
+Saskatchewan,Number of new cancer cases,2017,5655.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,2017,492.9,Province/Territory
+Alberta,Number of new cancer cases,2017,18975.0,Province/Territory
+Alberta,Cancer incidence rate 10,2017,447.8,Province/Territory
+British Columbia,Number of new cancer cases,2017,25610.0,Province/Territory
+British Columbia,Cancer incidence rate 10,2017,519.0,Province/Territory
+Yukon,Number of new cancer cases,2017,165.0,Province/Territory
+Yukon,Cancer incidence rate 10,2017,417.4,Province/Territory
+Northwest Territories,Number of new cancer cases,2017,185.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,2017,414.3,Province/Territory
+Nunavut,Number of new cancer cases,2017,90.0,Province/Territory
+Nunavut,Cancer incidence rate 10,2017,239.0,Province/Territory
+Canada,Number of new cancer cases,2018,,Country
+Canada,Cancer incidence rate,2018,,Country
+Canada (excluding Quebec),Number of new cancer cases,2018,158990.0,Other
+Canada (excluding Quebec),Cancer incidence rate,2018,554.2,Other
+Newfoundland and Labrador,Number of new cancer cases,2018,3670.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,2018,694.5,Province/Territory
+Prince Edward Island,Number of new cancer cases,2018,915.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,2018,600.9,Province/Territory
+Nova Scotia,Number of new cancer cases,2018,6480.0,Province/Territory
+Nova Scotia,Cancer incidence rate 10,2018,673.5,Province/Territory
+New Brunswick,Number of new cancer cases,2018,5090.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,2018,660.6,Province/Territory
+Quebec,Number of new cancer cases,2018,,Province/Territory
+Quebec,Cancer incidence rate 10,2018,,Province/Territory
+Ontario,Number of new cancer cases,2018,82620.0,Province/Territory
+Ontario,Cancer incidence rate 10,2018,576.7,Province/Territory
+Manitoba,Number of new cancer cases,2018,7010.0,Province/Territory
+Manitoba,Cancer incidence rate 10,2018,518.2,Province/Territory
+Saskatchewan,Number of new cancer cases,2018,5725.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,2018,495.2,Province/Territory
+Alberta,Number of new cancer cases,2018,19800.0,Province/Territory
+Alberta,Cancer incidence rate 10,2018,461.3,Province/Territory
+British Columbia,Number of new cancer cases,2018,27235.0,Province/Territory
+British Columbia,Cancer incidence rate 10,2018,542.4,Province/Territory
+Yukon,Number of new cancer cases,2018,185.0,Province/Territory
+Yukon,Cancer incidence rate 10,2018,457.9,Province/Territory
+Northwest Territories,Number of new cancer cases,2018,175.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,2018,392.9,Province/Territory
+Nunavut,Number of new cancer cases,2018,70.0,Province/Territory
+Nunavut,Cancer incidence rate 10,2018,182.7,Province/Territory
+Canada,Number of new cancer cases,2019,,Country
+Canada,Cancer incidence rate,2019,,Country
+Canada (excluding Quebec),Number of new cancer cases,2019,161605.0,Other
+Canada (excluding Quebec),Cancer incidence rate,2019,554.7,Other
+Newfoundland and Labrador,Number of new cancer cases,2019,3680.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,2019,697.4,Province/Territory
+Prince Edward Island,Number of new cancer cases,2019,1015.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,2019,651.5,Province/Territory
+Nova Scotia,Number of new cancer cases,2019,6360.0,Province/Territory
+Nova Scotia,Cancer incidence rate 10,2019,651.8,Province/Territory
+New Brunswick,Number of new cancer cases,2019,5175.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,2019,665.7,Province/Territory
+Quebec,Number of new cancer cases,2019,,Province/Territory
+Quebec,Cancer incidence rate 10,2019,,Province/Territory
+Ontario,Number of new cancer cases,2019,82760.0,Province/Territory
+Ontario,Cancer incidence rate 10,2019,567.9,Province/Territory
+Manitoba,Number of new cancer cases,2019,7205.0,Province/Territory
+Manitoba,Cancer incidence rate 10,2019,525.9,Province/Territory
+Saskatchewan,Number of new cancer cases,2019,6075.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,2019,521.8,Province/Territory
+Alberta,Number of new cancer cases,2019,20530.0,Province/Territory
+Alberta,Cancer incidence rate 10,2019,471.4,Province/Territory
+British Columbia,Number of new cancer cases,2019,28370.0,Province/Territory
+British Columbia,Cancer incidence rate 10,2019,555.1,Province/Territory
+Yukon,Number of new cancer cases,2019,170.0,Province/Territory
+Yukon,Cancer incidence rate 10,2019,412.8,Province/Territory
+Northwest Territories,Number of new cancer cases,2019,190.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,2019,427.5,Province/Territory
+Nunavut,Number of new cancer cases,2019,70.0,Province/Territory
+Nunavut,Cancer incidence rate 10,2019,180.2,Province/Territory
+Canada,Number of new cancer cases,2020,,Country
+Canada,Cancer incidence rate,2020,,Country
+Canada (excluding Quebec),Number of new cancer cases,2020,,Other
+Canada (excluding Quebec),Cancer incidence rate,2020,,Other
+Newfoundland and Labrador,Number of new cancer cases,2020,3380.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,2020,641.5,Province/Territory
+Prince Edward Island,Number of new cancer cases,2020,1000.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,2020,628.2,Province/Territory
+Nova Scotia,Number of new cancer cases,2020,,Province/Territory
+Nova Scotia,Cancer incidence rate 10,2020,,Province/Territory
+New Brunswick,Number of new cancer cases,2020,5025.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,2020,641.4,Province/Territory
+Quebec,Number of new cancer cases,2020,,Province/Territory
+Quebec,Cancer incidence rate 10,2020,,Province/Territory
+Ontario,Number of new cancer cases,2020,76150.0,Province/Territory
+Ontario,Cancer incidence rate 10,2020,515.9,Province/Territory
+Manitoba,Number of new cancer cases,2020,7060.0,Province/Territory
+Manitoba,Cancer incidence rate 10,2020,511.5,Province/Territory
+Saskatchewan,Number of new cancer cases,2020,5600.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,2020,479.7,Province/Territory
+Alberta,Number of new cancer cases,2020,19145.0,Province/Territory
+Alberta,Cancer incidence rate 10,2020,434.4,Province/Territory
+British Columbia,Number of new cancer cases,2020,26720.0,Province/Territory
+British Columbia,Cancer incidence rate 10,2020,516.2,Province/Territory
+Yukon,Number of new cancer cases,2020,170.0,Province/Territory
+Yukon,Cancer incidence rate 10,2020,405.2,Province/Territory
+Northwest Territories,Number of new cancer cases,2020,150.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,2020,337.0,Province/Territory
+Nunavut,Number of new cancer cases,2020,70.0,Province/Territory
+Nunavut,Cancer incidence rate 10,2020,177.3,Province/Territory
+Canada,Number of new cancer cases,2021,,Country
+Canada,Cancer incidence rate,2021,,Country
+Canada (excluding Quebec),Number of new cancer cases,2021,,Other
+Canada (excluding Quebec),Cancer incidence rate,2021,,Other
+Newfoundland and Labrador,Number of new cancer cases,2021,3710.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,2021,703.9,Province/Territory
+Prince Edward Island,Number of new cancer cases,2021,1080.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,2021,666.1,Province/Territory
+Nova Scotia,Number of new cancer cases,2021,,Province/Territory
+Nova Scotia,Cancer incidence rate 10,2021,,Province/Territory
+New Brunswick,Number of new cancer cases,2021,5425.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,2021,686.0,Province/Territory
+Quebec,Number of new cancer cases,2021,,Province/Territory
+Quebec,Cancer incidence rate 10,2021,,Province/Territory
+Ontario,Number of new cancer cases,2021,86155.0,Province/Territory
+Ontario,Cancer incidence rate 10,2021,580.5,Province/Territory
+Manitoba,Number of new cancer cases,2021,7340.0,Province/Territory
+Manitoba,Cancer incidence rate 10,2021,527.3,Province/Territory
+Saskatchewan,Number of new cancer cases,2021,6115.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,2021,523.7,Province/Territory
+Alberta,Number of new cancer cases,2021,21155.0,Province/Territory
+Alberta,Cancer incidence rate 10,2021,477.4,Province/Territory
+British Columbia,Number of new cancer cases,2021,29310.0,Province/Territory
+British Columbia,Cancer incidence rate 10,2021,560.8,Province/Territory
+Yukon,Number of new cancer cases,2021,145.0,Province/Territory
+Yukon,Cancer incidence rate 10,2021,337.5,Province/Territory
+Northwest Territories,Number of new cancer cases,2021,170.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,2021,381.3,Province/Territory
+Nunavut,Number of new cancer cases,2021,70.0,Province/Territory
+Nunavut,Cancer incidence rate 10,2021,174.6,Province/Territory
+Canada,Number of new cancer cases,2022,,Country
+Canada,Cancer incidence rate,2022,,Country
+Canada (excluding Quebec),Number of new cancer cases,2022,,Other
+Canada (excluding Quebec),Cancer incidence rate,2022,,Other
+Newfoundland and Labrador,Number of new cancer cases,2022,3675.0,Province/Territory
+Newfoundland and Labrador,Cancer incidence rate 10,2022,691.7,Province/Territory
+Prince Edward Island,Number of new cancer cases,2022,1105.0,Province/Territory
+Prince Edward Island,Cancer incidence rate 10,2022,660.8,Province/Territory
+Nova Scotia,Number of new cancer cases,2022,,Province/Territory
+Nova Scotia,Cancer incidence rate 10,2022,,Province/Territory
+New Brunswick,Number of new cancer cases,2022,5335.0,Province/Territory
+New Brunswick,Cancer incidence rate 10,2022,659.2,Province/Territory
+Quebec,Number of new cancer cases,2022,,Province/Territory
+Quebec,Cancer incidence rate 10,2022,,Province/Territory
+Ontario,Number of new cancer cases,2022,86830.0,Province/Territory
+Ontario,Cancer incidence rate 10,2022,573.5,Province/Territory
+Manitoba,Number of new cancer cases,2022,7235.0,Province/Territory
+Manitoba,Cancer incidence rate 10,2022,512.2,Province/Territory
+Saskatchewan,Number of new cancer cases,2022,6320.0,Province/Territory
+Saskatchewan,Cancer incidence rate 10,2022,536.3,Province/Territory
+Alberta,Number of new cancer cases,2022,20775.0,Province/Territory
+Alberta,Cancer incidence rate 10,2022,460.6,Province/Territory
+British Columbia,Number of new cancer cases,2022,29625.0,Province/Territory
+British Columbia,Cancer incidence rate 10,2022,553.0,Province/Territory
+Yukon,Number of new cancer cases,2022,210.0,Province/Territory
+Yukon,Cancer incidence rate 10,2022,478.4,Province/Territory
+Northwest Territories,Number of new cancer cases,2022,180.0,Province/Territory
+Northwest Territories,Cancer incidence rate 10,2022,403.3,Province/Territory
+Nunavut,Number of new cancer cases,2022,90.0,Province/Territory
+Nunavut,Cancer incidence rate 10,2022,222.5,Province/Territory

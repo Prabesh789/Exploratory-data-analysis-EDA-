@@ -1,6 +1,4 @@
-from .loaders.csv_loader import CSVLoader
-from .loaders.json_loader import JSONDataLoader
-from .loaders.sql_loader import SQLLoader
+from src.loaders import CSVLoader, JSONDataLoader, SQLLoader
 
 class DatasetFactory:
     @staticmethod
