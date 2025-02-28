@@ -1,9 +1,9 @@
 import os
 import zipfile
-from src.dataset_factory import DatasetFactory
+from src.data_processing.dataset_factory import DatasetFactory
 
 DATA_FOLDER = "data_insights/data"
-EXTRACTED_FOLDER = "data_insights/extracted_data"  # Define extraction folder dynamically
+EXTRACTED_FOLDER = "data_insights/data/extracted"  # Define extraction folder dynamically
 
 def extract_zip(zip_path):
     """Extract ZIP file into 'extracted_data/' and return extracted file paths."""
