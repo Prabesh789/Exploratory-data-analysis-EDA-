@@ -17,6 +17,7 @@ files = [
     f"{project_name}/README.md",
     f"{project_name}/requirements.txt",
     f"{project_name}/main.py",
+    f"{project_name}/run_pipeline.py",
 
     # Source EDA
     f"{project_name}/src/EDA.ipynb",
@@ -30,7 +31,6 @@ files = [
     f"{project_name}/src/analysis/multivariate_analysis.py",
 
     # Source - Data Processing
-    f"{project_name}/src/data_processing/__init__.py",
     f"{project_name}/src/data_processing/data_transformation.py",
     f"{project_name}/src/data_processing/dataset_factory.py",
 
