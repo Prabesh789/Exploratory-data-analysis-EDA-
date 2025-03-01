@@ -46,7 +46,7 @@ def analyze_cancer_cases_vs_incidence(df):
 
     # Correlation Calculation
     correlation = df_pivot["Number of new cancer cases"].corr(df_pivot["Cancer incidence rate"])
-    print(f"Correlation between Cancer Cases and Incidence Rate: {correlation:.2f}")
+    print(f"Correlation between Cancer Cases and Incidence Rate: {correlation}")
 
 
 def analyze_regional_growth(df):

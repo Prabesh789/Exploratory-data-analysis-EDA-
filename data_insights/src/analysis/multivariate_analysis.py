@@ -13,12 +13,9 @@ def analyze_cancer_growth_heatmap(df):
     # Ensure correct formatting
     df["Geography"] = df["Geography"].str.strip()
     df["Characteristics"] = df["Characteristics"].str.strip()
-    
-    # Convert "Year" to numeric
-    df["Year"] = pd.to_numeric(df["Year"], errors="coerce")
 
     # Filter only "Number of new cancer cases" and exclude Canada
-    df_cases = df[(df["Characteristics"] == "Number of new cancer cases") & (df["Geography"] != "Canada")]
+    df_cases = df[(df["Characteristics"] == "Number of new cancer cases") & (df["Geography"] != "Canada")  & (df["Geography"] != "Canada (excluding Quebec)")]
 
     # Pivot data to get Year-Region matrix
     df_pivot = df_cases.pivot(index="Year", columns="Geography", values="Value")
