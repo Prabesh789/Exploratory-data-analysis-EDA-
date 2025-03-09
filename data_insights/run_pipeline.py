@@ -32,12 +32,12 @@ if __name__ == "__main__":
         result = subprocess.run(["jupyter", "nbconvert", "--to", "notebook", "--execute", "--inplace", EDA_NOTEBOOK_PATH], capture_output=True, text=True)
 
         if result.returncode == 0:
-            print("✅ EDA Notebook executed successfully!\n")
+            print("EDA Notebook executed successfully!\n")
         else:
-            print(f"❌ Error executing EDA Notebook:\n{result.stderr}\n")
+            print(f"Error executing EDA Notebook:\n{result.stderr}\n")
             exit(1)
     else:
-        print(f"❌ ERROR: Notebook not found at {EDA_NOTEBOOK_PATH}. Check the path!")
+        print(f"ERROR: Notebook not found at {EDA_NOTEBOOK_PATH}. Check the path!")
         exit(1)
 
-    print("🎉 EDA Pipeline Execution Completed!")
+    print("EDA Pipeline Execution Completed!")
